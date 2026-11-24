@@ -1,2 +1,13 @@
-./bernoulli_nb.pkl
-./vectorizer.pkl
+# Ignore trained machine learning models
+*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore environment variables
+.env
