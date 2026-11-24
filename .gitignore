@@ -1,13 +1,10 @@
-# Ignore trained machine learning models
-*.pkl
-
-# Ignore Python cache
+# Python cache
 __pycache__/
 *.pyc
 
-# Ignore virtual environment
+# Virtual environment
 venv/
 .venv/
 
-# Ignore environment variables
+# Environment variables
 .env
