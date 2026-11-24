@@ -247,6 +247,11 @@ These are example inputs, not verified model outputs.
 - Improve Streamlit styling and provide prediction feedback.
 - Deploy the Streamlit app and add screenshots to this README.
 
+## Example Message
+
+- Spam SMS: Congratulations! You have won £1,000 in our lucky draw. Click here to claim your free prize now: http://claim-prize.example.com
+
+- Not Spam SMS: Hi John, are we still meeting tomorrow at 10 AM? Let me know when you are free. Thanks!
 ## Disclaimer
 
 This project is intended for learning and portfolio demonstration. Predictions are probabilistic model decisions and may be incorrect; it should not be treated as a production-grade messaging security filter without further validation.
